@@ -1,4 +1,7 @@
+package Client;
+
 import javax.swing.*;
+import java.awt.Color;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.*;
@@ -22,6 +25,8 @@ public class ChatGui {
         chatPanel.setLayout(null);
         chatPenal.setBorder(new EmptyBorder(5,5,5,5));
         setContentPane(chatPanel);
+        setLocationRelativeTo(null);    // 창 중앙에 위치
+        chatPanel.setBackground(Color.128, 255, 255);
 
         //chatLabel and ChatLog
         JLabel chatLabel = new JLabel("채팅방");
@@ -34,6 +39,7 @@ public class ChatGui {
         chatLog.setText("채팅 로그입니다.");
         chatPanel.add(chatLog);
 
+        //텍스트메시지 입력창
         textMsg = new JTextField();
         textMsg.setBounds(10, 250, 300, 30);
         textMsg.setColumns(10);

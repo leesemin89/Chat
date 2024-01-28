@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aed7541-78e7-4463-99a9-2c859047223d" name="Changes" comment="na">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/serverGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/serverGui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChatGui.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatGui.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChatGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatGui.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/ChatGui.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/ChatGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enterGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/enterGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enterGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/enterGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +101,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Gitblog\Chat\src\Client" />
+      <recent name="F:\Gitblog\Chat\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
